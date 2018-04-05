@@ -4,7 +4,9 @@ import 'package:lime/widgets/community.dart';
 import 'package:lime/widgets/feed.dart';
 import 'package:lime/widgets/trends.dart';
 
-
+/*
+*c'est la methode principale qui permet l'execution de tous le code ici present
+**/
 void main() {
   runApp(new LimeApp());
 }
